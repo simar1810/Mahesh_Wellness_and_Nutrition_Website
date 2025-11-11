@@ -98,7 +98,7 @@ export default function Footer() {
         </form>
 
         {/* Consent Checkbox */}
-        <div className="mb-6 sm:mb-8 bg-white rounded-md px-4 py-3 sm:px-6 sm:py-4">
+        {/* <div className="mb-6 sm:mb-8 bg-white rounded-md px-4 py-3 sm:px-6 sm:py-4">
           <label className="flex items-start gap-2 sm:gap-3 cursor-pointer">
             <input
               type="checkbox"
@@ -124,7 +124,7 @@ export default function Footer() {
               </span>
             </span>
           </label>
-        </div>
+        </div> */}
 
         <div className="flex justify-center">
           <button

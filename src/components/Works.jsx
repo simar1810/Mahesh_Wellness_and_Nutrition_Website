@@ -9,7 +9,7 @@ export default function Works() {
     },
     {
       id: "02",
-      title: "Get Instant Access to Sanraj Wellness Club",
+      title: "Get Instant Access to Mahesh Wellness and Nutrition",
       desc: "Once you sign up, you'll receive a direct login link to our app—no extra steps needed!",
     },
     {

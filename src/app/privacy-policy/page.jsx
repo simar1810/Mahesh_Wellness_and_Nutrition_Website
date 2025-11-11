@@ -59,7 +59,7 @@ const PrivacyPolicy = () => {
             <li>
               {/* changed */}
               <strong>Company</strong> (referred to as either "the Company",
-              "We", "Us" or "Our" in this Agreement) refers to Sanraj Wellness Club.
+              "We", "Us" or "Our" in this Agreement) refers to Mahesh Wellness and Nutrition.
             </li>
             <li>
               <strong>Cookies</strong> are small files placed on Your computer,
@@ -91,7 +91,7 @@ const PrivacyPolicy = () => {
             </li>
             <li>
               {/* changed */}
-              <strong>Website</strong> refers to Sanraj Wellness Club, accessible from{" "}
+              <strong>Website</strong> refers to Mahesh Wellness and Nutrition, accessible from{" "}
               <a
                 href="https://www.nutrihealthbridge.com/"
                 target="_blank"
