@@ -18,7 +18,7 @@ export default function Page() {
 
       <div className="flex justify-center items-center mr-2 md:mr-12">
         <Image
-          src="/swc_app_mockup.png"
+          src="/client-assets/Mahesh_Wellness_Mockup.png"
           alt="SWC App Screens"
           width={900}
           height={900}
