@@ -1,0 +1,15 @@
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls",
+        "delegate_permission/common.get_login_creds"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.wellnessz.maheshwellnessnutrition",
+        "sha256_cert_fingerprints": [
+          "CA:FE:A5:54:83:6D:C9:18:F8:B8:28:42:C3:87:BB:71:95:A3:0F:93:4C:58:7B:32:29:E6:F7:C8:3D:B7:E1:A7"
+        ]
+      }
+    }
+  ]
